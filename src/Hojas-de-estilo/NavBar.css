@@ -1,0 +1,9 @@
+.nav-container {
+  margin-left: 50px;
+  padding: 20px;
+}
+
+.navbar-brand {
+  text-decoration: underline;
+  text-decoration-color: Black;
+}
